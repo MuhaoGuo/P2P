@@ -1,0 +1,13 @@
+{
+    "charge_point_vendor": "AVT-Company",
+    "charge_point_model": "AVT-Express",
+    "charge_point_serial_number": "avt.001.13.1",
+    "charge_box_serial_number": "avt.001.13.1.01",
+    "firmware_version": "0.9.87",
+    "iccid": "",
+    "imsi": "",
+    "meter_type": "AVT NQC-ACDC",
+    "meter_serial_number": "avt.001.13.1.01",
+    "local_time": "2020-07-16T21:04:26",
+    "function_name": "BootNotification.req"
+}

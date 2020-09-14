@@ -1,0 +1,7 @@
+{
+    "vendor_id": "MOEV_GUI",
+    "message_id": "show current evses",
+    "data": "{}",
+    "local_time": "2020-07-16T23:38:28",
+    "function_name": "DataTransfer.req"
+}

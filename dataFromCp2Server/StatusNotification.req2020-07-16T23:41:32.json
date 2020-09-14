@@ -1,0 +1,11 @@
+{
+    "connector_id": 2,
+    "status": "Available",
+    "error_code": "NoError",
+    "info": "",
+    "timestamp": "2020-07-16T23:41:32Z",
+    "vendor_id": "",
+    "vendor_error_code": "",
+    "local_time": "2020-07-16T23:41:32",
+    "function_name": "StatusNotification.req"
+}

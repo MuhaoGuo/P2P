@@ -1,0 +1,9 @@
+{
+    "connector_id": 2,
+    "id_tag": "B4A63CDF",
+    "timestamp": "2020-07-16T21:04:29Z",
+    "meter_start": 0,
+    "reservation_id": 0,
+    "local_time": "2020-07-16T21:04:29",
+    "function_name": "StartTransaction.req"
+}

@@ -1,0 +1,7 @@
+{
+    "id_tag": "transaction1",
+    "connector_id": 1,
+    "charging_profile": null,
+    "local_time": "2020-07-16T21:05:43",
+    "function_name": "RemoteStartTransaction.req"
+}

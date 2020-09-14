@@ -1,0 +1,28 @@
+{
+    "connector_id": 0,
+    "cs_charging_profiles": {
+        "chargingProfileId": 1,
+        "transactionId": 1,
+        "stackLevel": 1,
+        "chargingProfilePurpose": "ChargePointMaxProfile",
+        "chargingProfileKind": "Absolute",
+        "recurrencyKind": "Daily",
+        "validFrom": "2020-07-06T01:04:18.164785",
+        "validTo": "2020-10-06T01:04:18.164785",
+        "chargingSchedule": {
+            "duration": 600,
+            "startSchedule": "2020-07-06T01:04:18.164785",
+            "chargingRateUnit": "W",
+            "chargingSchedulePeriod": [
+                {
+                    "startPeriod": 10,
+                    "limit": 100,
+                    "numberPhases": 2
+                }
+            ],
+            "minChargingRate": 2.1
+        }
+    },
+    "local_time": "2020-07-17T00:00:22",
+    "function_name": "SetChargingProfile.req"
+}

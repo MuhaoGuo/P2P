@@ -1,0 +1,5 @@
+{
+    "transaction_id": 111,
+    "local_time": "2020-07-17T00:43:55",
+    "function_name": "RemoteStopTransaction.req"
+}

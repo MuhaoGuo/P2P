@@ -1,0 +1,8 @@
+{
+    "transaction_id": 111111,
+    "id_tag": "B4A63CDF",
+    "timestamp": "2020-07-17T1:05:12Z",
+    "meter_stop": 20,
+    "local_time": "2020-07-17T01:05:12",
+    "function_name": "StopTransaction.req"
+}

@@ -1,0 +1,6 @@
+{
+    "status": "Accepted",
+    "data": "we accepted the stop remote transaction request, the evse is: CP_1",
+    "local_time": "2020-07-17T01:13:53",
+    "function_name": "DataTransfer.con"
+}

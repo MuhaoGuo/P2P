@@ -1,0 +1,9 @@
+{
+    "connector_id": 1,
+    "id_tag": "001transaction",
+    "meter_start": 0,
+    "timestamp": "2020-07-17T07:20:38.901610",
+    "reservation_id": 0,
+    "local_time": "2020-07-17T00:20:38",
+    "function_name": "StartTransaction.req"
+}

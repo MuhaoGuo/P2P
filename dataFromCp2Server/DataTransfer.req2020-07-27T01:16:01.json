@@ -1,0 +1,7 @@
+{
+    "vendor_id": "< EVSE_MANUFACTURER >",
+    "message_id": "AuthorizedPayment.req",
+    "data": "{\"connectorId\": 1, \"paySessionId\": \"<Unique Integer ID per session>\", \"authData\": [{\"Payment Type\": \"CC_OCPP\", \"CCDATA\": \"UoJ5VffAL288roKIoPYDQGsmL+WKzgorg5BThTET97Ae29plmtKL2w\", \"decryptedDataLen\": \"40\", \"KSN\": \"kBAZC0XKkwAAJA\", \"vendorId\": \"magtek\", \"version\": \"< MAGTEK_API_VERSION >\", \"phone\": \"< DRIVER_PHONE_NUBER_ENTERED_FROM_CHARGER_SCREEN >\", \"email\": \"< DRIVER_EMAIL_ENTERED_FROM_CHARGER_SCREEN >\", \"priceCode\": \"< CURRENTLY_UNDEFINED >\"}], \"timestamp\": \"<Current Timestamp>\"}",
+    "local_time": "2020-07-27T01:16:01",
+    "function_name": "DataTransfer.req"
+}

@@ -1,0 +1,7 @@
+{
+    "vendor_id": "MOEV_GUI",
+    "message_id": "start remote transaction",
+    "data": "{\"cp_id\": \"CP_8\", \"max_watts\": 1200, \"max_current\": null}",
+    "local_time": "2020-07-17T01:34:48",
+    "function_name": "DataTransfer.req"
+}
